@@ -27,6 +27,6 @@ jobs:
         # The login password for the registry
         password: EbIiZCvH89hp7zu4f3J3fXEoRvs3x/Z9 
         # Use registry for pushing to a custom registry
-        registry: GitHubWorkShop9209170
+        registry: githubworkshop9209170.azurecr.io
         # Use dockerfile when you would like to explicitly build a Dockerfile
         dockerfile: ./src/Web/Dockerfile
